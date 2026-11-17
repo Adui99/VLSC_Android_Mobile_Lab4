@@ -15,9 +15,12 @@ Bài thực hành áp dụng **Kotlin Coroutines** để xử lý bất đồng 
 ---
 
 ## Hình ảnh Minh họa
+
 **1. Trạng thái khởi động (Đồng hồ đếm ngược và ProgressBar chạy bình thường)**
-<img width="692" height="841" alt="image" src="https://github.com/user-attachments/assets/a7cab71c-0ac6-4eae-83fe-55af970cdad6" />
+![Trạng thái khởi động](https://github.com/user-attachments/assets/a7cab71c-0ac6-4eae-83fe-55af970cdad6)
+
 **2. Khi nhấn nút chặn luồng (Giao diện bị đơ, ProgressBar đứng im trong 5 giây)**
-<img width="687" height="801" alt="image" src="https://github.com/user-attachments/assets/9c8bf728-3050-493c-93a3-f2ac5ddf9069" />
+![Trạng thái chặn luồng](https://github.com/user-attachments/assets/9c8bf728-3050-493c-93a3-f2ac5ddf9069)
+
 **3. Khi nhấn nút chạy Coroutines (Xử lý ngầm hoàn tất, giao diện vẫn mượt mà)**
-<img width="688" height="847" alt="image" src="https://github.com/user-attachments/assets/2cc2026e-db47-41c2-bc19-a0a5deb2680b" />
+![Trạng thái chạy Coroutines](https://github.com/user-attachments/assets/2cc2026e-db47-41c2-bc19-a0a5deb2680b)
